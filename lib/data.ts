@@ -291,7 +291,7 @@ export const chiyaGanduEpisodes: Episode[] = [
     duration: "24m",
     thumbnailUrl: "https://picsum.photos/seed/ep01/640/360",
     thumbnailGradient: "from-rose-500 to-red-800",
-    videoUrl: "https://drive.google.com/file/d/PLACEHOLDER_VIDEO_ID_01/preview",
+    videoUrl: "https://drive.google.com/file/d/1FGkft-QGvQdcQcYnUgBSJsESJ54byNeb/view?usp=sharing",
     isNew: false,
   },
   {
