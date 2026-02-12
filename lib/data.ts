@@ -291,7 +291,7 @@ export const chiyaGanduEpisodes: Episode[] = [
     duration: "24m",
     thumbnailUrl: "https://picsum.photos/seed/ep01/640/360",
     thumbnailGradient: "from-rose-500 to-red-800",
-    videoUrl: "https://www.youtube.com/watch?v=bDc26PtTQEM",
+    videoUrl: "https://drive.google.com/file/d/1FGkft-QGvQdcQcYnUgBSJsESJ54byNeb/preview?usp=sharing",
     isNew: false,
   },
   {
@@ -305,7 +305,7 @@ export const chiyaGanduEpisodes: Episode[] = [
     duration: "28m",
     thumbnailUrl: "https://picsum.photos/seed/ep02/640/360",
     thumbnailGradient: "from-amber-600 to-yellow-900",
-    videoUrl: "https://www.youtube.com/watch?v=bDc26PtTQEM",
+    videoUrl: "https://drive.google.com/file/d/1FGkft-QGvQdcQcYnUgBSJsESJ54byNeb/preview",
     isNew: false,
   },
   {
