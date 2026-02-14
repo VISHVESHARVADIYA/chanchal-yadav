@@ -41,7 +41,7 @@ export const chiyaGanduSeries: Series = {
     "A heartwarming collection of the cutest moments, sweet surprises, and everyday adventures with the one who makes every day brighter.",
   longDescription:
     "Follow the journey of Chiya & Vishu through moments that make life extraordinary. this series captures the magic of being with someone who turns ordinary days into beautiful memories. Each episode is a window into the little things that make life so special.",
-  thumbnailUrl: "https://drive.google.com/file/d/1A9ht4GPTxTINpccbnf53hv1dmzFuMQlI/preview",
+  thumbnailUrl: "https://drive.google.com/file/d/1A9ht4GPTxTINpccbnf53hv1dmzFuMQlI/view?usp=sharing",
   backdropUrl: "https://drive.google.com/file/d/1A9ht4GPTxTINpccbnf53hv1dmzFuMQlI/preview",
   thumbnailGradient: "from-rose-600 via-pink-500 to-red-700",
   backdropGradient: "from-rose-900 via-red-950 to-black",
